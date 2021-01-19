@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-graphql-practice",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/maruware/nodejs-graphql-practice.git",
+  "author": "maruware <me@maruware.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "graphql": "^15.4.0"
+  }
+}
